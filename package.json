@@ -2,9 +2,9 @@
   "name": "mean-assignment",
   "version": "1.0.0",
   "description": "Assignment for MEAN Stack",
-  "main": "server2.js",
+  "main": "server3.js",
   "scripts": {
-    "start": "nodemon server2.js"
+    "start": "nodemon server3.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Ekam-Preet-Singh/Mean-assignment#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.3"
   },
   "devDependencies": {
