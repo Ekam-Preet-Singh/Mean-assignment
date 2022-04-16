@@ -1,0 +1,32 @@
+{
+  "name": "mean-assignment",
+  "version": "1.0.0",
+  "description": "Assignment for MEAN Stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekam-Preet-Singh/Mean-assignment.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "Angular",
+    "&",
+    "Node"
+  ],
+  "author": "Ekam Preet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekam-Preet-Singh/Mean-assignment/issues"
+  },
+  "homepage": "https://github.com/Ekam-Preet-Singh/Mean-assignment#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
