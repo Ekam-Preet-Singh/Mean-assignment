@@ -2,9 +2,9 @@
   "name": "mean-assignment",
   "version": "1.0.0",
   "description": "Assignment for MEAN Stack",
-  "main": "server.js",
+  "main": "server2.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server2.js"
   },
   "repository": {
     "type": "git",
